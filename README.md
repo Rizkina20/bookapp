@@ -12,13 +12,17 @@ Konsep dasar yang digunakan pada Praktikum kali ini yaitu MVC (Model,View Contro
 # LARAVEL
 Struktur Laravel, antara lain:
 - Controller
+
 Penghubung antara request user (View) ke model yang nantinya akan di kembalikan lagi ke view dalam bentuk response
 
 - Migration
+
 Merupakan salah satu fitur Laravel yang berfungsi seperti version control untuk database
 
 - Seeder
+
 Sebuah fitur untuk mengisi data pada database dengan data sembarang atau data testing
 
 - Model
+
 Merupakan salah satu dari bagian MVC yang akan berkomunikasi dengan database
